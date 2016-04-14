@@ -11,7 +11,7 @@ This is a small library that aims to provide integration tools between [Redux](h
 
 # Repository
 
-Add support unexpected keys and reduce the number of discarded duplicates
+Change: Support unexpected keys and reduce the number of discarded duplicates
 
 https://github.com/Graf009/redux-immutablejs.git
 
