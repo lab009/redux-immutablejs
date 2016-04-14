@@ -1,4 +1,4 @@
-# `@eagle/redux-immutablejs`
+# @eagle/redux-immutablejs
 
 Redux & Immutable integration
 
