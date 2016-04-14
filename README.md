@@ -1,4 +1,4 @@
-# `redux-immutablejs`
+# `@eagle/redux-immutablejs`
 
 Redux & Immutable integration
 
@@ -9,6 +9,11 @@ This is a small library that aims to provide integration tools between [Redux](h
 [ImmutableJs](https://facebook.github.io/immutable-js/) for store initial state.
 1. An optional handler map reducer creator with immutable support.
 
+# Repository
+
+Add support unexpected keys and reduce the number of discarded duplicates
+
+https://github.com/Graf009/redux-immutablejs.git
 
 # Setup
 
