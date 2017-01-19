@@ -1,4 +1,4 @@
-# @eagle/redux-immutablejs
+# @lab009/redux-immutablejs
 
 Redux & Immutable integration
 
@@ -13,7 +13,7 @@ This is a small library that aims to provide integration tools between [Redux](h
 
 Change: Support unexpected keys and reduce the number of discarded duplicates
 
-https://github.com/Graf009/redux-immutablejs.git
+https://github.com/lab009/redux-immutablejs.git
 
 # Setup
 

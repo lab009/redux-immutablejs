@@ -1,5 +1,5 @@
 {
-  "name": "@eagle/redux-immutablejs",
+  "name": "@lab009/redux-immutablejs",
   "version": "0.1.0",
   "description": "Redux Immutable facilities",
   "scripts": {
