@@ -1,5 +1,8 @@
 # @lab009/redux-immutablejs
 
+Forked from [indexiatech/redux-immutablejs](https://github.com/indexiatech/redux-immutablejs), changed:
+ - Support unexpected keys and reduce the number of discarded duplicates
+
 Redux & Immutable integration
 
 This is a small library that aims to provide integration tools between [Redux](https://github.com/rackt/redux)
@@ -10,8 +13,6 @@ This is a small library that aims to provide integration tools between [Redux](h
 1. An optional handler map reducer creator with immutable support.
 
 # Repository
-
-Change: Support unexpected keys and reduce the number of discarded duplicates
 
 https://github.com/lab009/redux-immutablejs.git
 
